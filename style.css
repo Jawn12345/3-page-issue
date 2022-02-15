@@ -79,6 +79,24 @@ li a:active {
     padding-top: 0px;
 }
 
+.head2 {
+    margin-top: 5px;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    width: 25%;
+    /*border-top: 6px solid gray;*/
+    border-bottom: 4px solid gray;
+}
+
+.head3 {
+    margin-top: 5px;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    width: 40%;
+    /*border-top: 4px solid gray;*/
+    border-bottom: 4px solid gray;
+}
+
 .img1 img {
     width: 60%;
 }
