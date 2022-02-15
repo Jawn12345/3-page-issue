@@ -78,8 +78,13 @@ li a:active {
     border: 2px solid white;
     padding-top: 0px;
 }
+
+.img1 img {
+    width: 60%;
+}
+
 .content2_2 {
-    background-color: mediumseagreen;
+    background-color: skyblue;
     padding: 10px;
     border: 2px solid white;
     padding-top: 2px;
