@@ -20,7 +20,7 @@ body {
     text-align: center;
     border: 2px solid white;
     /*vertical-align: middle;*/
-    line-height: 400px;
+    line-height: 370px;
     font-size: 2em;
 }
 
@@ -157,7 +157,7 @@ li a:active {
     display: inline-block;
     background-color: white;
     padding: 10px;
-    margin-left: 50px;
+    margin-left: 80px;
 }
 
 .content4 {
