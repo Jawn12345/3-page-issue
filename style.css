@@ -1,0 +1,155 @@
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    padding: 0px;
+    border: 0px;
+}
+
+body {
+    background-color: white;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    background-image: url(https://images2.minutemediacdn.com/image/upload/c_crop,h_1349,w_2400,x_0,y_134/v1633552438/shape/mentalfloss/651042-gettyimages-1326020302.jpg?itok=2UgAvHga);
+}
+
+.hd1 {
+    height: 400px;
+    background-image: url(https://defenders.org/sites/default/files/styles/meta_image/public/2019-04/loggerhead_sea_turtle_hatchling_peter_pattavina-fws_header.jpg?itok=959g6Vew);
+    text-align: center;
+    /*vertical-align: middle;*/
+    line-height: 400px;
+    font-size: 2em;
+}
+
+.navbar {
+    background-color: seagreen;
+    height: 60px;
+    margin-bottom: 20px;
+    font-size: 1.75em;
+}
+
+.navbar ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+.navbar li {
+    display: inline-block;
+    border-right: 2px solid gray;
+}
+
+.navbar li a {
+    color: black;
+    display: block;
+    padding: 9.5px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: white;
+    background-color: darkgreen;
+}
+
+.navbar a:hover:not(.active) {
+    background-color: seagreen;
+}
+
+li a:active {
+    background-color: black;
+}
+
+.content {
+    background-color: skyblue;
+    text-align: center;
+    padding: 0px;
+    border: 5px solid white;
+}
+
+.content p {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.content2_1 {
+    background-color: mediumseagreen;
+    padding: 10px;
+    border: 2px solid white;
+    padding-top: 0px;
+}
+.content2_2 {
+    background-color: mediumseagreen;
+    padding: 10px;
+    border: 2px solid white;
+    padding-top: 2px;
+    margin-top: 10px;
+}
+
+.shop {
+    background-color: white;
+    margin-top: 10px;
+}
+
+.content3 {
+    background-color: white;
+    padding: 10px;
+}
+
+.content3_1 {
+    background-color: red;
+    width: 90px;
+}
+
+.content3_1 a {
+    color: white;
+    text-decoration: none;
+}
+
+.content3_1 a:hover {
+    color: black;
+}
+
+.content3_2 {
+    display: inline-block;
+    margin-top: 10px;
+    background-color: white;
+    padding: 10px;
+}
+
+.content3_3 {
+    background-color: red;
+    width: 90px;
+}
+
+.content3_3 a {
+    color: white;
+    text-decoration: none;
+}
+
+.content3_3 a:hover {
+    color: black;
+}
+
+.content3_4 {
+    display: inline-block;
+    background-color: white;
+    padding: 10px;
+}
+
+.content3_5 {
+    display: inline-block;
+    background-color: white;
+    padding: 10px;
+    margin-left: 50px;
+}
+
+.content4 {
+  background-color: mediumseagreen;
+  padding: 10px;
+  border: 2px solid white;
+  padding-top: 0px;
+}
+
+.content4 ul {
+    color: black;
+}
