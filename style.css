@@ -8,6 +8,7 @@ body, html {
 }
 
 body {
+    font-size: 1.1em;
     background-color: white;
     font-family: 'Zen Kaku Gothic Antique', sans-serif;
     background-image: url(https://images2.minutemediacdn.com/image/upload/c_crop,h_1349,w_2400,x_0,y_134/v1633552438/shape/mentalfloss/651042-gettyimages-1326020302.jpg?itok=2UgAvHga);
@@ -133,7 +134,7 @@ li a:active {
 
 .content3_3 {
     background-color: red;
-    width: 90px;
+    width: 100px;
 }
 
 .content3_3 a {
