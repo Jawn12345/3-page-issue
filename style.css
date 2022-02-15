@@ -24,9 +24,14 @@ body {
     font-size: 2em;
 }
 
+h2 {
+    text-shadow: 0.5px 0.5px white;
+}
+
 .navbar {
     background-color: seagreen;
     padding: 0;
+    /*text-shadow: 0.05px 0.05px white;*/
     border: 2px solid white;
     height: 100%; /*60px;*/
     margin-bottom: 20px;
@@ -41,10 +46,12 @@ body {
 .navbar li {
     display: inline-block;
     border-right: 2px solid gray;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .navbar li a {
-    color: black;
+    color: white;
     display: block;
     /*padding: 9.5px;*/
     padding: 5px;
